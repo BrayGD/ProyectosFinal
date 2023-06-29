@@ -1,0 +1,87 @@
+body{
+   
+    background:url(fondopie.png);
+
+} 
+
+.titulo-principal{
+    color: #FF6F00;
+    text-align: center;
+    font: bold;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 500%;
+    padding-left: 30px;
+
+}
+
+
+#banner{
+
+    width: 100%;
+
+}
+
+.principal{
+    
+    background:url(fondopie.png);
+    padding: 20px;
+
+}
+
+.titulo-centralizado{
+    color: #FF6F00;
+    text-align: center;
+    font: bold;
+    font-family: Tahoma;
+}
+
+
+    
+    p{ 
+    text-align: center;
+    background:url(fondopie.png);
+    color: floralwhite;
+    font-family: "Candara";
+  
+    }
+
+#descripcion {
+
+        font-size: 20px;
+}
+
+
+
+
+
+.gallery{
+
+    background:url(fondopie.png);
+    padding: 15px;
+}   
+
+.items{ 
+
+    font-style: italic;
+    color: white;
+}
+
+ul{
+
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+}
+
+.imagenGallery{
+
+    width: 20%;
+    
+    
+}
+   
+    
+   
+
+   

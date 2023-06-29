@@ -1,0 +1,29 @@
+*{
+    font-family: "sen", sans-serif;
+    font-weight: 100S;
+}
+
+
+div{
+    padding: 30px;
+    height: 150px;
+    width: 200px;
+}
+
+
+.container{
+    background: red;
+    
+}
+
+.container2{
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+

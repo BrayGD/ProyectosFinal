@@ -1,0 +1,26 @@
+.personas{
+    padding-top: 3rem;
+}
+
+@media screen and (min-width: 0) {
+    .personas{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+      
+        
+       }
+}
+
+@media screen and (min-width: 768px) {
+    .personas{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+      
+        
+       }
+}
+
+
